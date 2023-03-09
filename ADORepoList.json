@@ -3,11 +3,11 @@
     {
         "AzureRepoName":"MSP-Azure",
         "ADOCloneURL":"dev.azure.com/VitalLabs/MSP-Azure/_git/MSP-Azure",
-         "GitHubCloneURL":"github.com/RekhuGopal/Docker.git"
+         "GitHubCloneURL":"github.com/aestheticaaron/GitHubADOSync.git"
     },
     {
-        "AzureRepoName":"CloudQuickLabsADO",
-        "ADOCloneURL":"dev.azure.com/CloudQuickLabs/CloudQuickLabsADO/_git/CloudQuickLabsADO",
+        "AzureRepoName":"MSP-Azure",
+        "ADOCloneURL":"dev.azure.com/VitalLabs/MSP-Azure/_git/MSP-Azure",
          "GitHubCloneURL":"github.com/aestheticaaron/GitHubADOSync.git"
     }
     ]
