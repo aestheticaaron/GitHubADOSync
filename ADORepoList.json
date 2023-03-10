@@ -8,7 +8,7 @@
     {
         "AzureRepoName":"MSP-Azure",
         "ADOCloneURL":"dev.azure.com/VitalLabs/MSP-Azure/_git/MSP-Azure",
-         "GitHubCloneURL":"github.com/aestheticaaron/GitHubADOSync.git"
+         "GitHubCloneURL":"github.com/aestheticaaron/AzureDevopsSync.git"
     }
     ]
 }
