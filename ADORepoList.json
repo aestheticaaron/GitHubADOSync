@@ -1,9 +1,9 @@
 {
     "RepoList" : [
     {
-        "AzureRepoName":"MSP-Azure",
-        "ADOCloneURL":"dev.azure.com/VitalLabs/MSP-Azure/_git/MSP-Azure",
-         "GitHubCloneURL":"github.com/aestheticaaron/GitHubADOSync.git"
+        "AzureRepoName":"Docker",
+        "ADOCloneURL":"dev.azure.com/VitalLabs/MSP-Azure/DockerImageAzureWebApp/_git/Docker",",
+         "GitHubCloneURL":"github.com/aestheticaaron/Docker.git"
     },
     {
         "AzureRepoName":"MSP-Azure",
