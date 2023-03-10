@@ -13,7 +13,7 @@ Write-Host ' - - - - - - - - - - - - - - - - - - - - - - - - - '
 $AzureRepoName = "MSP-Azure"
 $ADOCloneURL = "dev.azure.com/VitalLabs/MSP-Azure/_git/MSP-Azure"
 $GitHubCloneURL = "github.com/aestheticaaron/AzureDevopsClone.git"
-$stageDir = pwd | Split-Path
+$stageDir = Get-Location | Split-Path
 Write-Host "stage Dir is : $stageDir"
 $githubDir = $stageDir +"\"+"gitHub"
 Write-Host "github Dir : $githubDir"
