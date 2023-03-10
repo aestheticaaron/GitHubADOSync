@@ -3,7 +3,7 @@ param(
      [string]$GitHubDestinationPAT,
  
      [Parameter()]
-     [string]$ADOSourcePAT,
+     [string]$ADOSourcePAT
  )
 
 # Write your PowerShell commands here.
